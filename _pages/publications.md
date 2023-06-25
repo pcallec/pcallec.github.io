@@ -8,8 +8,10 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-Publications. You can see an update version in [Google Scholar](https://scholar.google.com/citations?user=9LtfMfMAAAAJ&hl=en)
+You can see the most updated version in [Google Scholar](https://scholar.google.com/citations?user=9LtfMfMAAAAJ&hl=en)
 <div class="publications">
+
+Note: * denotes equal contribution.
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
