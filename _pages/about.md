@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in Computer Science at the University of Oklahoma. I am working in the [PanLab](https://www.thepanlab.com/) with [Dr Chongle Pan](https://scholar.google.ca/citations?user=m2ORdeYAAAAJ&hl=en). I am working in applying machine learning in Medical Imaging and NLP for Data Augmentation in Health applications.
+I am a PhD candidate in Computer Science at the University of Oklahoma working in the [Dr Chongle Pan](https://scholar.google.ca/citations?user=m2ORdeYAAAAJ&hl=en)([PanLab](https://www.thepanlab.com/)). My research covers applying machine learning to Medical Imaging and Natural Language Processing(NLP) for Data Augmentation of messages in Health applications.
 
-I'm collaborating with [Dr Qinggong Tang](https://scholar.google.com/citations?user=UVnZQlMAAAAJ&hl=en), [Biophotonic Imaging Laboratory](http://tanglab.oucreate.com/). We are working with Optical Coherence Tomography (OCT) images.
+[Dr Qinggong Tang](https://scholar.google.com/citations?user=UVnZQlMAAAAJ&hl=en)([Biophotonic Imaging Laboratory](http://tanglab.oucreate.com/)) is one of my collaborators. He is using Optical Coherence Tomography (OCT) images and exploring new applications for his instruments e.g. kidney tissue detection, epidural space detection among others.
